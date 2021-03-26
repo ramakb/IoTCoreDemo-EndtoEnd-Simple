@@ -1,3 +1,5 @@
+Special Credits to GoogleCloudPlatform and LearnGCPWithMahesh
+
 # IoTCoreDemo-EndtoEnd-Simple
 
 This is a Simple Use Case of IoTCore Service in GCP for the demo which uses the services CloudIoTCore --> CloudPub/Sub --> DataFlow --> BigQuery --> DataStudio <for visual dashboard / charts>
