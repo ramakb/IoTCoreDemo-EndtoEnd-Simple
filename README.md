@@ -15,3 +15,7 @@ Use below command to push 5 messages from IoT Device through to Pub/Sub
 Finally, after all the GCP Services setup and integration as per the Architecture, the DataStudio Dashboard looks like below:
 
 ![DataStudio-1](https://github.com/ramakb/IoTCoreDemo-EndtoEnd-Simple/blob/main/DataStudio-1.png)
+
+I'm planning to write a detailed blog about the implementation of this...
+
+<i> Stay tuned and Stay hungry for Learning! </i>
